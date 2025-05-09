@@ -1,17 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////////////
-// INTEGRITY STATEMENT (v4)
-//
-// By signing your name and ID below you are stating that you have agreed
-// to the online academic integrity statement posted on edX:
-// (Course > Assignments > Assignment Information & Policies > Academic Integrity Policy)
-/////////////////////////////////////////////////////////////////////////////////////////
-// I received help from and/or collaborated with:
-
-// No one
-//
-// Name: Melinda Caringal
-// login ID: mcaringa
-//////////////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <assert.h>
 #include <stdbool.h>
