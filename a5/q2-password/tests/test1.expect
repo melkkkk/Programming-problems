@@ -1,0 +1,9 @@
+Testing candidate password: Password
+Length check: Passed
+Capital check: Passed
+Number check: Failed
+Symbol check: Failed
+Digit sum check: Failed
+Positivity check: Failed
+Palindrome check: Failed
+Exiting.

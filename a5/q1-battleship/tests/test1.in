@@ -1,0 +1,11 @@
+3
+Battleship B v 4 1 2
+Destroyer D h 3 2 3
+Submarine S v 3 5 7
+b
+s 0
+s 1
+s 2
+p 11  0 2  1 2  2 2  3 2  4 2  5 2  2 4  9 9  6 7  2 3  2 5
+b
+e
